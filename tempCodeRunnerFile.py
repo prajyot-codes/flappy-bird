@@ -1,0 +1,1 @@
+lf.win.blit(self.back_img, (0, -300))
